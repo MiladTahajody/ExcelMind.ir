@@ -1,4 +1,4 @@
-var baseURL = '';
+var baseURL = 'https://excelmind.ir/';
 var fD = Object.create;
 var jg = Object.defineProperty;
 var pD = Object.getOwnPropertyDescriptor;
