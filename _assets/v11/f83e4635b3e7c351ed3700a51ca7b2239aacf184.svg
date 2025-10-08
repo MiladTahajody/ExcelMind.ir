@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 24 24" width="100%">
+<g clip-path="url(#clip0_0_11)" id="Social link 2">
+<g id="Vector">
+<path clip-rule="evenodd" d="M24 3C24 1.34423 22.6558 0 21 0H3C1.34423 0 0 1.34423 0 3V21C0 22.6558 1.34423 24 3 24H21C22.6558 24 24 22.6558 24 21V3Z" fill="black" fill-opacity="0.45" fill-rule="evenodd"/>
+<path d="M6.8823 8.37402H2.8623V20.466H6.8823V8.37402Z" fill="var(--fill-0, white)"/>
+<path d="M4.899 2.54395C3.52364 2.54395 2.625 3.44816 2.625 4.6333C2.625 5.79355 3.49631 6.72271 4.8458 6.72271H4.87177C6.27347 6.72271 7.14595 5.79355 7.14595 4.6333C7.11994 3.44816 6.27356 2.54395 4.899 2.54395Z" fill="var(--fill-0, white)"/>
+<path d="M16.7467 8.08984C14.6144 8.08984 13.6593 9.26252 13.1244 10.0862V8.37419H9.10547C9.15877 9.50842 9.10547 20.4661 9.10547 20.4661H13.1244V13.7131C13.1244 13.3517 13.1504 12.9903 13.2569 12.732C13.547 12.0101 14.2087 11.2623 15.3191 11.2623C16.7728 11.2623 17.3551 12.3716 17.3551 13.9964V20.4661H21.3742V13.5319C21.3742 9.81766 19.3912 8.08984 16.7467 8.08984Z" fill="var(--fill-0, white)"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_11">
+<rect fill="white" height="24" width="24"/>
+</clipPath>
+</defs>
+</svg>

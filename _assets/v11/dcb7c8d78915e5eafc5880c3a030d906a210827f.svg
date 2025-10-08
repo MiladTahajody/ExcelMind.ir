@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 24 24" width="100%">
+<g id="Checkmark">
+<rect height="22" rx="11" stroke="var(--stroke-0, white)" stroke-width="2" width="22" x="1" y="1"/>
+<path d="M6 11.8571L10.1124 16.263C10.3293 16.4955 10.7052 16.4691 10.8875 16.2086L17.3333 7" id="Vector 4" stroke="var(--stroke-0, black)" stroke-linecap="round" stroke-opacity="0.55" stroke-width="2"/>
+</g>
+</svg>
